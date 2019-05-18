@@ -1,6 +1,6 @@
 # This config file is based on 
 (https://github.com/flyingmachine/emacs-for-clojure)
-Modified for my office
+Added and modified my local configs and added support for commonlisp
 # this is a Clojure-friendly emacs config
 
 If you're new to emacs, check out
