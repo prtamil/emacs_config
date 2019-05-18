@@ -1,3 +1,6 @@
+# This config file is based on 
+(https://github.com/flyingmachine/emacs-for-clojure)
+Modified for my office
 # this is a Clojure-friendly emacs config
 
 If you're new to emacs, check out
